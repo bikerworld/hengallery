@@ -1,0 +1,6 @@
+[template.environment]
+  HEN_ADR = "Enter your HEN wallet address"
+
+[build]
+  publish = "/"
+  command = "sed -i s/HEN_ADR_PH/$HEN_ADR/g index.html"
