@@ -1,8 +1,10 @@
-# hengallery
-Gallery of your sales (primary and secondary) on Hicetnunc.xyz
-This code is to publish your gallery on netlify and hide my domain from your gallery
+# Hengallery
 
-# howto
+Gallery of your sales (primary and secondary) of your Tezos NFT collection (minted on HEN or OBJKTCOM contract).
+
+This code allow you to publish your gallery on netlify and hide my domain from your gallery.
+
+# How to
 
 1. You need a free github account and a free netlify account
 2. Use the button below to clone and publish your own version of the gallery on netlify
@@ -15,9 +17,9 @@ This code is to publish your gallery on netlify and hide my domain from your gal
 
 Once the site is published, you go to netlify control panel to change your site name in the "Site settings" section
 
-# embed in an existing page
+# Embed in an existing site
 
-If you just want to embed your gallery in an existing page of your side, use the following HTML code:
+If you just want to embed your gallery in an existing page of your  website, use the following HTML code:
 
 ```
 <style>
